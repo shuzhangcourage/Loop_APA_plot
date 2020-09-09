@@ -1,4 +1,4 @@
-#!/usr/users/szhang3/Software/R-3.6.1/bin/Rscript 
+#!/bin/Rscript 
 
 library(optparse)
 library(RColorBrewer)
