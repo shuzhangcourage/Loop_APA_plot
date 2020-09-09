@@ -17,4 +17,5 @@ This step just calculate average signal. You also get a maximum from this step, 
 add a maximum in your heatmap will help make signal at same level!
 
 python 02_tidy_APA_heatmap.py APA.average outfile.heatmap maximum_from_01_step
+
 ./03_heatmap.R --input outfile.heatmap --output out.pdf
